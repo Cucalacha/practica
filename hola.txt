@@ -1,2 +1,3 @@
 hola, soy Santiago
 Estudio Ingeniería En Sistemas
+estoy aprendiendo git
