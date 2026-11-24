@@ -1,3 +1,5 @@
-hola, mi nombre es sammuel
+
+hola, me llamo samuel
 Estudio Ingeniería En Sistemas
 estoy aprendiendo git
+me equivoque
