@@ -3,3 +3,4 @@ hola, me llamo samuel
 Estudio Ingeniería En Sistemas
 estoy aprendiendo git
 me equivoque
+esto lo escribi en github
