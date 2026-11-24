@@ -1,3 +1,3 @@
-hola, soy Santiago
+hola, mi nombre es sammuel
 Estudio Ingeniería En Sistemas
 estoy aprendiendo git
